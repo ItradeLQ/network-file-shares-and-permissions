@@ -132,3 +132,5 @@ On DC-1 make the user the member of the Accountant Security group.
 Login back as that user in Client-1 and try to access the Accounting share file in \DC-1.
 </p>
 <br />
+
+We've reach the end of this tutorial. Hope you enjoyed the tutorial!
