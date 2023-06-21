@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/mT7ZBJg.png" alt="Microsoft Active Directory Logo"/>
+<a href="https://imgur.com/ortiY1T"><img src="https://i.imgur.com/ortiY1T.png" title="source: imgur.com" /></a>
 </p>
 
 <h1>Network File Shares and Permissions</h1>
