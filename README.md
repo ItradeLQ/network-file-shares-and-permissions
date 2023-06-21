@@ -116,7 +116,7 @@ Go to file explorer On the “accounting” folder you created earlier, set the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/NWD4coR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/5rV0Sr6"><img src="https://i.imgur.com/5rV0Sr6.png" title="source: imgur.com" /></a>
 </p>
 <p>
 On client-1, try to access the Accounting folder. It will fail, then logout from client-1. 
