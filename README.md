@@ -133,4 +133,4 @@ Login back as that user in Client-1 and try to access the Accounting share file 
 </p>
 <br />
 
-We've reach the end of this tutorial. Hope you enjoyed the tutorial!
+We've reach the end of this activity. Hope you enjoyed the tutorial!
