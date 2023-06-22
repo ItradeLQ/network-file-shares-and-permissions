@@ -20,7 +20,7 @@ In this tutorial we will crete some file shares with different permissions and a
 <h2>File Shares and Observation</h2>
 </p>
 <p>
-Login to DC-1 as your domain admin account, in my case it is mydomain.com\kanza_admin) and create some file shares with various permissions.
+Login to DC-1 as your domain admin account, in my case it is mydomain.com\jane_admin) and create some file shares with various permissions.
   
 login to Client-1 as a normal user (mydomain\<someuser>)
   
