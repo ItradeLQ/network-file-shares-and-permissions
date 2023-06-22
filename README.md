@@ -113,28 +113,31 @@ On the “accounting” folder: Right click -> properties -> sharing -> share ->
 
 </p>
 <br />
-On Client-1, try to access the Accounting folder. It will fail because the normal user doesn't have permission to access the folder.
-<p>
+On Client-1, try to access the Accounting folder. It will fail because the normal user doesn't have permission to access the folder.</p>
+
 <a href="https://imgur.com/5rV0Sr6"><img src="https://i.imgur.com/5rV0Sr6.png" title="source: imgur.com" /></a>
 </p>
 <p>
 
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/23QpucQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+On DC-1 add the normal user as a member of the "ACCOUNTANTS" Security group.  
 </p>
-<p>
-On DC-1 make the normal user a member of the Accountants Security group.
 
 <a href="https://imgur.com/2UWtieH"><img src="https://i.imgur.com/2UWtieH.png" title="source: imgur.com" /></a>
-  
-Log back in as the normal user in Client-1 and try to access the Accounting share file in \DC-1. Access will still be denied. Not because you don't the required permission but because the permission has not been incorporated fully. At this point, log off as the normal user and log back in to gain access to the "Accounting" folder.
+</p>
+<p>
+
+</p>
+<br />
+When you try to access the accounting folder  as the normal user in Client-1, it will say Windows cannot access it. 
+This is because the permissions haven't been fully updated.
+To gain access logoff from Client-1 and log back in as the normal user to access the Accounting shared file in \DC-1. 
+Permission will now be granted to gain access to the "Accounting" folder.</p>
 
 <a href="https://imgur.com/oIARPoh"><img src="https://i.imgur.com/oIARPoh.png" title="source: imgur.com" /></a>
 
 </p>
 <br />
 
-We've reach the end of this activity. Hope you enjoyed the tutorial!
+We've reached the end of this activity. Hope you enjoyed the tutorial!
