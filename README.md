@@ -70,7 +70,6 @@ Go to the DC-1, in Active Directory Users and Groups -> right click mydomain.com
 <a href="https://imgur.com/b2wuhqo"><img src="https://i.imgur.com/b2wuhqo.png" title="source: imgur.com" /></a>
 
 
-
 Within the  "_Security_Groups", add a new group name "ACCOUNTANTS". </p>
 <a href="https://imgur.com/05AmZ9I"><img src="https://i.imgur.com/05AmZ9I.png" title="source: imgur.com" /></a>
 
